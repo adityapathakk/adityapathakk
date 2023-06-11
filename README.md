@@ -1,6 +1,6 @@
 ### hi there!
-
-my name is **Aditya Pathak**.
+### i'm **Aditya Pathak**.
+# i'm an ambitious & young b. tech student with interests in tech, film, music & art. 
 
 - i'm an **Electronics & Computer Science** student at **Thapar Institute of Engineering & Technology, Patiala, Punjab**, 🇮🇳
 - i’m currently working on **Web Development**.
