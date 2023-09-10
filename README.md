@@ -3,7 +3,8 @@
 
 - i'm an **Electronics & Computer Engineering** student at **Thapar Institute of Engineering & Technology, Patiala, Punjab**, 🇮🇳
 - i’m currently working on **Front End Development, Graphic Design, UI/UX Design**.
-- i’m currently developing my skills in the fields of **DSA** and **AI/ML**, with a little **App Development** on the side.
+- i’m currently developing my skills in the fields of **DSA** and **AI/ML**.
+- other fields i want to try are App Development and DevOps.
 - i’m looking to collaborate and participate in hackathons and other tech competitions.
 - i’m looking for help with life lol.
 - ask me about cars and music.
