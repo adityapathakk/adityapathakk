@@ -9,7 +9,6 @@
 - i’m also looking for help with life (lol!!!).
 - ask me about cars and music.
 - how to reach me: [my Linktree](https://linktr.ee/adityapathakk)
-- pronouns: he/him
 - fun fact: i am also an aspiring actor!
 
 [![@adityapathakk's Holopin board](https://holopin.me/adityapathakk)](https://holopin.io/@adityapathakk)
