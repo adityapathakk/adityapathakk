@@ -24,11 +24,9 @@
 <a href = "https://linktr.ee/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a><br><br>
 <a href = "https://github.com/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <-- You're here!
 
-
-
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Techstack:</h3>
 <p align="left"> <!--Badges from here: https://github.com/Ileriayo/markdown-badges-->
 <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "cplusplus"/></a> <!--C++-->
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <!--Python-->
@@ -60,8 +58,7 @@
 <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <!--Premiere Pro-->
 </p>
 
-<br>
-
+<h3 align = "left">My Github Stats:</h3>
 <p> <!--Github stats from here: https://github.com/anuraghazra/github-readme-stats-->
 <img align = "left" width = 305 src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapathakk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt = "adityapathakk's github stats">
 <img align = "center" width = 400 src = "https://github-readme-stats.vercel.app/api?username=adityapathakk&show_icons=true&theme=tokyonight&locale=en" alt = "adityapathakk's github stats">
@@ -72,4 +69,14 @@
 
 <hr>
 
-[![@adityapathakk's Holopin board](https://holopin.me/adityapathakk)](https://holopin.io/@adityapathakk)
+<h3 align = "left">My Badges:</h3>
+<a href = "https://holopin.io/@adityapathakk"><img src = "https://holopin.me/adityapathakk"></a>
+<br>
+<img src = "https://github.com/user-attachments/assets/934d3698-dcf9-49db-8b4d-89ebf58b3db8" width = 190 height = 190>
+
+
+
+
+
+
+
