@@ -10,11 +10,14 @@
 - ask me about cars and music.
 - how to reach me: [my Linktree](https://linktr.ee/adityapathakk)
 - fun fact: i am also an aspiring actor!
+- click on the headings below to view more about me!
 <img src = "https://komarev.com/ghpvc/?username=adityapathakk&color=1f7fed&label=Profile+Views&style=for-the-badge" align = "left" alt = "adityapathakk's Profile Views">
-
 <br>
 
-<h3>Important Links:</h3> <!--Badges from here: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<hr>
+
+<h3 align = "left">Important Links:</h3> <!--Badges from here: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<p align = "left">
 <a href = "https://linkedin.com/in/adityapathakk" target = "blank"><img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/adityapathakk"></a>
 <a href = "https://www.leetcode.com/adityapathakk" target = "blank"><img align = "center" src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode.com/adityapathakk"></a>
 <a href = "https://www.codechef.com/users/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
@@ -23,10 +26,10 @@
 <!--<a href = ""><img align = "center" src = ""></a>-->
 <a href = "https://linktr.ee/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a><br><br>
 <a href = "https://github.com/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <-- You're here!
+</p>
 
-<br>
-
-<h3 align="left">Techstack:</h3>
+<details>
+<summary><h3 align="left">Techstack:</h3></summary>
 <p align="left"> <!--Badges from here: https://github.com/Ileriayo/markdown-badges-->
 <img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt = "cplusplus"/></a> <!--C++-->
 <img src = "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <!--Python-->
@@ -57,23 +60,27 @@
 <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"> <!--Canva-->
 <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> <!--Premiere Pro-->
 </p>
+</details>
 
-<h3 align = "left">My Github Stats:</h3>
-<p> <!--Github stats from here: https://github.com/anuraghazra/github-readme-stats-->
+<details>
+<summary><h3 align = "left">My Github Stats:</h3></summary>
+<p align = "left"> <!--Github stats from here: https://github.com/anuraghazra/github-readme-stats-->
 <img align = "left" width = 305 src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapathakk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt = "adityapathakk's github stats">
 <img align = "center" width = 400 src = "https://github-readme-stats.vercel.app/api?username=adityapathakk&show_icons=true&theme=tokyonight&locale=en" alt = "adityapathakk's github stats">
 </p>
 <p>
 <img align = "center" width = 450 src = "https://github-readme-streak-stats.herokuapp.com/?user=adityapathakk&theme=tokyonight&" alt = "adityapathakk's github stats">
 </p>
+</details>
 
 <hr>
 
-<h3 align = "left">My Badges:</h3>
+<details>
+<summary><h3 align = "left">My Badges:</h3></summary>
 <a href = "https://holopin.io/@adityapathakk"><img src = "https://holopin.me/adityapathakk"></a>
 <br>
 <img src = "https://github.com/user-attachments/assets/934d3698-dcf9-49db-8b4d-89ebf58b3db8" width = 190 height = 190>
-
+</details>
 
 
 
