@@ -17,12 +17,12 @@
 <h3>Important Links:</h3> <!--Badges from here: https://github.com/alexandresanlim/Badges4-README.md-Profile-->
 <a href = "https://linkedin.com/in/adityapathakk" target = "blank"><img align = "center" src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/adityapathakk"></a>
 <a href = "https://www.leetcode.com/adityapathakk" target = "blank"><img align = "center" src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode.com/adityapathakk"></a>
-<a href = ""><img align = "center" src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
-<a href = ""><img align = "center" src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-<a href = ""><img align = "center" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+<a href = "https://www.codechef.com/users/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
+<a href = "https://www.hackerrank.com/profile/adityapathak585"><img align = "center" src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a href = "https://www.kaggle.com/adityapathak03"><img align = "center" src = "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 <!--<a href = ""><img align = "center" src = ""></a>-->
-<a href = ""><img align = "center" src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a><br><br>
-<a href = ""><img align = "center" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <-- You're here!
+<a href = "https://linktr.ee/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a><br><br>
+<a href = "https://github.com/adityapathakk"><img align = "center" src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <-- You're here!
 
 
 
