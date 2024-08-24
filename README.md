@@ -63,8 +63,7 @@
 </p>
 </details>
 
-<details>
-<summary><h3 align = "left">My Github Stats:</h3></summary>
+<h3 align = "left">My Github Stats:</h3>
 <p align = "left"> <!--Github stats from here: https://github.com/anuraghazra/github-readme-stats-->
 <img align = "left" width = 305 src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapathakk&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt = "adityapathakk's github stats">
 <img align = "center" width = 400 src = "https://github-readme-stats.vercel.app/api?username=adityapathakk&show_icons=true&theme=tokyonight&locale=en" alt = "adityapathakk's github stats">
@@ -72,19 +71,15 @@
 <p>
 <img align = "center" width = 450 src = "https://github-readme-streak-stats.herokuapp.com/?user=adityapathakk&theme=tokyonight&" alt = "adityapathakk's github stats">
 </p>
-</details>
 
 <hr>
 
-<details>
-<summary><h3 align = "left">My Badges:</h3></summary>
+<h3 align = "left">My Badges:</h3>
 <a href = "https://holopin.io/@adityapathakk"><img src = "https://holopin.me/adityapathakk"></a>
 <br>
-<img src = "https://github.com/user-attachments/assets/934d3698-dcf9-49db-8b4d-89ebf58b3db8" width = 190 height = 190>
-</details>
-
-
-
-
+<p float = "left">
+  <img src = "https://github.com/user-attachments/assets/934d3698-dcf9-49db-8b4d-89ebf58b3db8" width = 190 height = 190>
+  <img src = "https://github.com/adityapathakk/adityapathakk/blob/main/leetcode2024-50days.gif" width = 190 height = 190>
+</p>
 
 
