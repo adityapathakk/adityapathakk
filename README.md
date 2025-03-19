@@ -16,10 +16,13 @@
 
 <hr>
 
-<details>
-<summary><h3 align="left">Highlights of 2025</h3></summary>
+<!--<details>-->
+<!--<summary>-->
+<h3 align="left">Highlights of 2025</h3>
+<!--</summary>-->
 <p align="left">
-This is a summary of my journey, working as a Generative A.I. intern at Cubastion Consulting, Sec-49, Gurgaon.
+This is a summary of my journey, working as a Generative A.I. intern at Cubastion Consulting, Sec-49, Gurgaon.<br>
+Check out my <a href = "https://github.com/adityapathak-cubastion">company GitHub profile</a>!
 
 ### January
 
@@ -76,7 +79,7 @@ This is a summary of my journey, working as a Generative A.I. intern at Cubastio
     <td>This is my first AI Agent. It can chat, perform basic calculations, reverse strings, set timers, and summarise text. Currently a work in progress.</td>
   </tr>
 </table>
-</details>
+<!--</details>-->
 
 <!-- <h3 align = "left">Important Links:</h3> <!--Badges from here: https://github.com/alexandresanlim/Badges4-README.md-Profile
 <p align = "left">
